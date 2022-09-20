@@ -7,3 +7,4 @@ This is a machine learning project
 4. IDE vs code
 5. create a new env
 conda create -p venv python==3.7 -y
+activate venv for pytho "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
